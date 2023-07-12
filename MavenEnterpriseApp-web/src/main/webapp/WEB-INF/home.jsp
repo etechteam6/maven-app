@@ -7,13 +7,13 @@
 <head>
 <spring:url value="/resources/images/etechlogo.jpg" var="etechlogo" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Etech Consulting llc- Home Page</title>
+<title>King Moses LLC- Home Page</title>
 <link href="${kingmoseslogo}" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">Welcome to King Moses LLC.</h1>
-<h1 align="center">We are a software solutions company and DevOps online training platform in New York and Ohio and Job Support also...Teaching 80% practical skills</h1>
+<h1 align="center">We are a government contracting business based in Florida. We also offer comprehensive consultation support and training at 80% practical skills</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -23,7 +23,7 @@
 	<span style="font-weight: bold;">
 		King Moses LLC, 
 		Florida, United States of America
-		+13478735512/+16677868741/+17189244942.
+		+175424724**, +178653884**.
 		
 	</span>
 </div>
@@ -31,7 +31,7 @@
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <p align=center>King Moses llc - Government Contracting Company.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://www.etecconsultingllc.com/">King Moses LLC</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="http://www.kingmosesllc.com/">King Moses LLC</a> </small></p>
 
 </body>
 </html>
