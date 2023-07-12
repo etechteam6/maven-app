@@ -1,1 +1,1 @@
-# maven-app
+# maven-etech-application
