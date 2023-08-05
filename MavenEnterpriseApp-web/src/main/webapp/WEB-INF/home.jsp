@@ -7,31 +7,31 @@
 <head>
 <spring:url value="/resources/images/etechlogo.jpg" var="etechlogo" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Etech Consulting llc- Home Page</title>
-<link href="${etechlogo}" rel="icon">
+<title>King Moses LLC- Home Page</title>
+<link href="${kingmoseslogo}" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Etech Consulting Devops Master Class.</h1>
-<h1 align="center">We are a software solutions company and DevOps online training platform in New York and Ohio and Job Support also...Teaching 80% practical skills</h1>
+<h1 align="center">Welcome to King Moses Government Contracting Company.</h1>
+<h1 align="center">We are a government contracting company and Software engineering company based in Florida, Texas, and California. We also offer Job Support ...Teaching 80% practical skills</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="${etechlogo}" alt="" width="100"/>
+		<img src="${kingmoseslogo}" alt="" width="100"/>
 
 	</span>
 	<span style="font-weight: bold;">
-		Etech Consulting LLC, 
-		New york,United States Of America
-		+13478735512/+16677868741/+17189244942.
+		King Moses LLC, 
+		Florida, United States Of America
+		+1786538****/+1754247***.
 		
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
-<p align=center>Etech Consulting llc - Consultant, Training, Software Development company.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://www.etecconsultingllc.com/">Etech Consulting LLC</a> </small></p>
+<p align=center>King Moses LLC - Government Contracting, Consultant, Training, Software Development company.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://www.kingmosesllc.com/">King Moses LLC</a> </small></p>
 
 </body>
 </html>
