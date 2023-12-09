@@ -11,6 +11,7 @@ pipeline {
     }
     stage('2-cleanws'){
       steps{
+        sh 'sudo apt install maven'
         sh 'mvn clean'
       }
     }
